@@ -1,57 +1,94 @@
-# κ-model: El Universo como Sistema Nervioso Cuántico
+# Kappa Model
 
-**Geometría de Ahoras · Falso Vacío Hadrónico · Gravedad Emergente · Consciencia como Φ_κ**
-
----
-
-## Descripción
-
-Este repositorio contiene el desarrollo formal de un marco teórico donde el parámetro de coherencia hadrónica **κ ∈ [−1, +1]** es el principio organizador central del universo.
-
-**De κ emergen:**
-- La estructura del tiempo (geometría de ahoras)
-- La gravedad (excedente de información Ω del falso vacío hadrónico)
-- La química cuántica
-- La materia oscura y la energía oscura
-- La consciencia como condición estructural (Φ_κ > Φ_crítico)
-
-**La gravedad no es mediada por gravitones.** Emerge de ondas de información coherencia-decoherencia (Ω) emanadas del falso vacío hadrónico, donde quarks y gluones virtuales existen en superposición temporal.
-
-**El tiempo no es una dimensión que fluye.** Es una colección de hipersuperficies espaciales — ahoras — que coexisten simultáneamente ponderadas por κ.
+**El Universo como Sistema Nervioso Cuántico**
 
 ---
 
-## Contenido
+## Descripción general
 
-| Archivo | Versión | Descripción |
-|---------|---------|-------------|
-| `paper de la consciencia3.27(unificado).pdf` | 3.27 (Abril 2026) | Marco teórico completo en desarrollo |
+El **Kappa Model** es un marco teórico que propone una reinterpretación radical del universo como un **sistema autoorganizado de procesamiento de información**, estructuralmente análogo a un **sistema nervioso cuántico**.
 
----
+En lugar de considerar la consciencia como un subproducto de la materia, este modelo explora la posibilidad de que:
 
-## Predicciones falsables
-
-| Experimento | Predicción | Sensibilidad actual | Estado |
-|-------------|------------|---------------------|--------|
-| Interferometría de neutrones (Pb vs Al) | Δφ ≈ 10⁻⁶ rad | 10⁻⁸ rad | Detectable |
-| Decoherencia en materiales densos | δτ_dec ≈ 0.01–0.1% | ~0.01% | Detectable |
-| Espectroscopía Raman H₂O vs D₂O | δν ≈ 10⁻³ cm⁻¹ | 10⁻⁴ cm⁻¹ | Marginal |
-| Correlaciones CMB con simetría SU(3) | señal > 10⁻⁶ | 10⁻⁶ | Posible |
-| Ondas gravitacionales en fusiones de neutrones | ε_Ω ≈ 10⁻²⁰ (10⁶ eventos) | 10⁻²³ | Posible |
-| Variación G con composición nuclear | δG/G ≈ 10⁻²⁹ | 10⁻¹⁴ | No detectable |
+* La consciencia sea una **propiedad fundamental del universo**
+* El espacio-tiempo emerja de **dinámicas de información**
+* La gravedad no sea una fuerza fundamental, sino un **fenómeno emergente**
+* El vacío cuántico funcione como un **sustrato activo**, no como espacio vacío
 
 ---
 
-## 🔍 Estado del trabajo
+## Ideas centrales
 
-- **Tipo:** Física teórica especulativa
-- **Consistencia:** Formalmente consistente, con conjeturas explícitamente marcadas (⚠)
-- **Limitaciones reconocidas:** brecha residual del vacío (~10³⁴ órdenes), consistencia de D₅ con SU(3) pendiente, mezcla clásico-cuántico
-- **Validación:** Experimental (predicciones falsables)
-- **Autor:** Independiente, sin afiliación institucional
+* **Estructura Nerviosa Cuántica**
+  El universo se modela como una red de nodos interconectados (análogos a neuronas), donde la información fluye, se procesa y se autoorganiza.
+
+* **Falso Vacío Hadrónico**
+  Reinterpretación del vacío como un medio estructurado capaz de almacenar y transmitir información.
+
+* **Gravedad Emergente**
+  La gravedad surge a partir de gradientes de información, en lugar de ser una interacción fundamental.
+
+* **Consciencia Cósmica**
+  La consciencia no está localizada, sino distribuida, pudiendo emerger de coherencias cuánticas a gran escala.
 
 ---
 
-## Acerca del autor
-- René Ojeda Bravo
-- reneojedabravo@gmail.com
+## Objetivos conceptuales
+
+Este proyecto busca:
+
+* Conectar **física, teoría de la información y estudios de la consciencia**
+* Proponer nuevas interpretaciones de la **mecánica cuántica y el espacio-tiempo**
+* Explorar bases para posibles **arquitecturas de consciencia sintética**
+* Servir como fundamento para futuros **modelos computacionales o simulaciones**
+
+---
+
+## Documento
+
+Lee el documento completo aquí:
+`paper de la consciencia3.27(unificado).pdf`
+
+---
+
+## Estado del proyecto
+
+**Fase:** Desarrollo teórico inicial
+
+Este repositorio contiene actualmente trabajo conceptual.
+Posibles direcciones futuras:
+
+* Formalización matemática
+* Simulaciones computacionales
+* Propuestas de validación experimental
+
+---
+
+
+## Aviso
+
+Este proyecto es de carácter exploratorio y especulativo.
+No forma parte de la física establecida y debe interpretarse como una **hipótesis abierta de investigación**.
+
+---
+
+## Contribuciones
+
+Se aceptan ideas, críticas y colaboraciones.
+Si te interesan la física, los sistemas complejos o la consciencia, puedes participar abriendo un issue o proponiendo mejoras.
+
+---
+
+## Contacto
+
+René Ojeda Bravo
+Investigador independiente
+[reneojedabravo@gmail.com](mailto:reneojedabravo@gmail.com)
+
+---
+
+## Nota final
+
+El Kappa Model es un intento de repensar el universo no como una estructura estática, sino como un **sistema vivo y dinámico de información en evolución**.
+
+---
